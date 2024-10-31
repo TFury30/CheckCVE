@@ -68,10 +68,6 @@ The script features a logging mechanism that records various levels of informati
 3. **Error Management:** By implementing robust error handling, the script minimizes disruptions and informs users of issues without halting the entire process.
 4. **Modular Logging:** The logging structure allows users to monitor script activity, which is crucial for debugging and auditing.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 
 ## Contact
 
