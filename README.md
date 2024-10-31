@@ -73,6 +73,10 @@ The script features a logging mechanism that records various levels of informati
 
 For any inquiries or support, feel free to reach out via GitHub or your preferred contact method.
 
+## Author
+This script is maintained by Tobias Fourie.
+
 ---
+
 
 Happy scanning!
