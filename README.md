@@ -18,7 +18,7 @@ To use this script, ensure you have PowerShell installed on your machine. You ca
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/CVE-Vulnerability-Checker.git
+   git clone [https://github.com/yourusername/CVE-Vulnerability-Checker.git](https://github.com/TFourie30/CheckCVE.git)
    cd CVE-Vulnerability-Checker
    ```
 
