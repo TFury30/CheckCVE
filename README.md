@@ -76,11 +76,3 @@ For any inquiries or support, feel free to reach out via GitHub or your preferre
 ---
 
 Happy scanning!
-```
-
-### Notes:
-- Replace `"https://github.com/yourusername/CVE-Vulnerability-Checker.git"` with your actual repository link.
-- Adjust any specific details to fit your style or the unique features of your project.
-- You can also add badges for build status, license, or versioning if applicable.
-
-Feel free to customize or expand upon any sections! If you need further assistance, just let me know.
