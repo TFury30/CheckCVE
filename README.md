@@ -18,7 +18,7 @@ To use this script, ensure you have PowerShell installed on your machine. You ca
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/TFourie30/CheckCVE.git]
+   git clone [https://github.com/TFury30/CheckCVE.git]
    cd CheckCVE
    ```
 
